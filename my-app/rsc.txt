@@ -1,0 +1,21 @@
+React server components is a new architechuture that ws quiclky nirodiced by next js 
+
+This architecture introduceds a new approach for creating react components by divcing into two castegoriees 
+ 
+Server Components 
+Client components 
+
+By Defalu next js treats all components as server components 
+These components can perform serveer side tasks lke readingf taska or fetching data directly froma datebase 
+-m The tradeoff is they cant handled react hooks or interfactions
+
+Client component s 
+
+You have to use a directive called "use client" 
+we can use react hooks and all the ui functiio
+Client components are the normal react comoponets  
+ 
+
+
+
+
